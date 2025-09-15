@@ -18,7 +18,7 @@ const Profile = () => {
           <div className="bg-white rounded-lg shadow-lg p-6 text-center">
             <div className="mb-6">
               <img 
-                src="./fotoprofile.jpg" 
+                src="/TIKUS-PROJECT/fotoprofile.jpg" 
                 alt="Vira Febyana" 
                 className="w-48 h-48 rounded-full mx-auto object-cover border-4 border-kemenkes-blue shadow-lg"
               />
