@@ -1,0 +1,220 @@
+{
+  "rats": [
+    {
+      "id": 1,
+      "scientificName": "Bandicota indica",
+      "localName": "Wirok Besar",
+      "morphology": {
+        "weight": { "min": 205, "max": 800 },
+        "totalLength": { "min": 360, "max": 590 },
+        "headBody": { "min": 200, "max": 300 },
+        "tail": { "min": 180, "max": 315 },
+        "hindFoot": { "min": 47, "max": 63 },
+        "ears": { "min": 25, "max": 33 },
+        "teats": "3+3"
+      },
+      "characteristics": {
+        "hairType": "Kasar, panjang, berwarna dan jarang",
+        "noseShape": "Silindris",
+        "bodyShape": "Terpotong",
+        "dorsalColor": "Coklat muda",
+        "ventralColor": "Coklat Hitam",
+        "tailDorsalColor": "Hitam",
+        "tailVentralColor": "Gelap"
+      },
+      "description": "Tikus berukuran sangat besar dengan rambut kasar, panjang, berwarna dan jarang. Hidung berbentuk silindris, badan terpotong. Warna dorsal coklat muda, ventral coklat hitam, ekor hitam di bagian dorsal dan gelap di ventral.",
+      "habitat": "Gudang, beranda, sawah, ladang, kebun, tanaman padi, dan daerah sekitar pemukiman",
+      "healthRisk": "Positif membawa larva kutu tikus (kutu pinjal) dari Kabupaten Klaten",
+      "image": "/images/bandicota-indica.png"
+    },
+    {
+      "id": 2,
+      "scientificName": "Rattus norvegicus",
+      "localName": "Tikus Riol,Brown Rat,Norway Rat",
+      "morphology": {
+        "weight": { "min": 150, "max": 600 },
+        "totalLength": { "min": 210, "max": 500 },
+        "headBody": { "min": 150, "max": 250 },
+        "tail": { "min": 180, "max": 230 },
+        "hindFoot": { "min": 39, "max": 47 },
+        "ears": { "min": 18, "max": 24 },
+        "teats": "3+3"
+      },
+      "characteristics": {
+        "hairType": "Kasar, agak panjang",
+        "noseShape": "Silindris",
+        "bodyShape": "Terpotong ke belakang",
+        "dorsalColor": "Dorsal coklat gelap, Ventral putih abu-abu",
+        "ventralColor": "Coklat gelap",
+        "tailDorsalColor": "Coklat gelap",
+        "tailVentralColor": "Coklat gelap"
+      },
+      "description": "Tikus dengan rambut kasar dan agak panjang. Hidung silindris, badan terpotong ke belakang. Warna dorsal coklat gelap dengan ventral putih abu-abu, ekor coklat gelap.",
+      "habitat": "Gudang di kota dan pinggir kota, pemukiman, SPAL dan saluran air kotoran, makanan tersedia, pemukiman, kandang, gudang, sawah, rawa, padang, got, kolong hewan",
+      "healthRisk": "Reservoir leptospirosis di kota dan desa, sumber murine typhus dan hemorrhagic fever with renal syndrome",
+      "image": "/images/rattus-norvegicus.png"
+    },
+    {
+      "id": 3,
+      "scientificName": "Rattus rattus diardii",
+      "localName": "Tikus Rumah, Domestik (Distance 14%)",
+      "morphology": {
+        "weight": { "min": 30, "max": 300 },
+        "totalLength": { "min": 220, "max": 460 },
+        "headBody": { "min": 100, "max": 213 },
+        "tail": { "min": 101, "max": 250 },
+        "hindFoot": { "min": 20, "max": 39 },
+        "ears": { "min": 13, "max": 23 },
+        "teats": "2+3"
+      },
+      "characteristics": {
+        "hairType": "Halus, agak pendek",
+        "noseShape": "Agak tumpul",
+        "bodyShape": "Silindris",
+        "dorsalColor": "Coklat tua",
+        "ventralColor": "Coklat keabu-abuan",
+        "tailDorsalColor": "Coklat gelap",
+        "tailVentralColor": "Coklat gelap"
+      },
+      "description": "Tikus dengan rambut halus dan agak pendek. Hidung agak tumpul, badan silindris. Warna dorsal coklat tua, ventral coklat keabu-abuan, ekor coklat gelap.",
+      "habitat": "Gudang makanan, pemukiman, dan di langit-langit (atap)",
+      "healthRisk": "Reservoir sekunder pes, maag, infeksi murine typhus dan murina typhus",
+      "image": "/images/rattus-rattus.png"
+    },
+    {
+      "id": 4,
+      "scientificName": "Rattus exulans",
+      "localName": "Tikus Ladang,Field Rat",
+      "morphology": {
+        "weight": { "min": 30, "max": 85 },
+        "totalLength": { "min": 139, "max": 255 },
+        "headBody": { "min": 80, "max": 159 },
+        "tail": { "min": 108, "max": 147 },
+        "hindFoot": { "min": 22, "max": 30 },
+        "ears": { "min": 11, "max": 18 },
+        "teats": "2+2"
+      },
+      "characteristics": {
+        "hairType": "Halus, agak kerucut",
+        "noseShape": "Silindris",
+        "bodyShape": "Silindris",
+        "dorsalColor": "Coklat kelabu",
+        "ventralColor": "Putih kelabu",
+        "tailDorsalColor": "Coklat gelap",
+        "tailVentralColor": "Coklat gelap"
+      },
+      "description": "Tikus dengan rambut halus dan agak kerucut. Hidung silindris, badan silindris. Warna dorsal coklat kelabu, ventral putih kelabu, ekor coklat gelap.",
+      "habitat": "Sawah, ladang, sawah dan padang rumput, semak-semak, padang rumput, kebun, hutan, pemukiman, dan di dalam rumah",
+      "healthRisk": "Reservoir pes, infeksi murine typhus, hemorrhagic fevers, dan murina typhus, reservoir leptospirosis di kota Semarang",
+      "image": "/images/rattus-exulans.png"
+    },
+    {
+      "id": 5,
+      "scientificName": "Rattus tiomanicus",
+      "localName": "Tikus Pohon",
+      "morphology": {
+        "weight": { "min": 55, "max": 300 },
+        "totalLength": { "min": 245, "max": 597 },
+        "headBody": { "min": 130, "max": 230 },
+        "tail": { "min": 125, "max": 225 },
+        "hindFoot": { "min": 24, "max": 40 },
+        "ears": { "min": 12, "max": 20 },
+        "teats": "2+3"
+      },
+      "characteristics": {
+        "hairType": "Kasar",
+        "noseShape": "Agak kerucut",
+        "bodyShape": "Silindris",
+        "dorsalColor": "Coklat kelabu",
+        "ventralColor": "Putih krem/kekuningan",
+        "tailDorsalColor": "Coklat gelap",
+        "tailVentralColor": "Coklat gelap"
+      },
+      "description": "Tikus dengan rambut kasar. Hidung agak kerucut, badan silindris. Warna dorsal coklat kelabu, ventral putih krem/kekuningan, ekor coklat gelap.",
+      "habitat": "Pemukiman, kebun, semak-semak, hutan bambu, semak-semak hutan, semak-semak di Sumatera",
+      "healthRisk": "Reservoir sekunder pes, infeksi murine typhus, hemorrhagic fevers, reservoir leptospirosis di Sumatera",
+      "image": "/images/rattus-tiomanicus.png"
+    },
+    {
+      "id": 6,
+      "scientificName": "Niviventer fulvescens",
+      "localName": "Tikus Dada Putih",
+      "morphology": {
+        "weight": { "min": 187, "max": 370 },
+        "totalLength": { "min": 85, "max": 180 },
+        "headBody": { "min": 100, "max": 210 },
+        "tail": { "min": 183, "max": 300 },
+        "hindFoot": { "min": 16, "max": 22 },
+        "ears": { "min": 16, "max": 22 },
+        "teats": "2+2"
+      },
+      "characteristics": {
+        "hairType": "Rambut pendek, lurus, berkilau, spiny, duri-duri",
+        "noseShape": "Silindris",
+        "bodyShape": "Silindris",
+        "dorsalColor": "Kuning kemerahan",
+        "ventralColor": "Putih kelabu",
+        "tailDorsalColor": "Coklat gelap",
+        "tailVentralColor": "Coklat gelap"
+      },
+      "description": "Tikus dengan rambut pendek, lurus, berkilau, spiny dengan duri-duri. Hidung silindris, badan silindris. Warna dorsal kuning kemerahan, ventral putih kelabu, ekor coklat gelap.",
+      "habitat": "Semak-semak, rumput-rumputan, hutan bambu, hutan, dan padang pegunungan",
+      "healthRisk": "Reservoir sekunder pes, dan inang vektor",
+      "image": "/images/niviventer-fulvescens.png"
+    },
+    {
+      "id": 7,
+      "scientificName": "Rattus argentiventer",
+      "localName": "Tikus Sawah",
+      "morphology": {
+        "weight": { "min": 70, "max": 300 },
+        "totalLength": { "min": 240, "max": 370 },
+        "headBody": { "min": 130, "max": 210 },
+        "tail": { "min": 130, "max": 192 },
+        "hindFoot": { "min": 32, "max": 38 },
+        "ears": { "min": 18, "max": 22 },
+        "teats": "3+3"
+      },
+      "characteristics": {
+        "hairType": "Rambut pendek, halus",
+        "noseShape": "Kerucut",
+        "bodyShape": "Silindris",
+        "dorsalColor": "Coklat kelabu",
+        "ventralColor": "Putih abu-abu pucat",
+        "tailDorsalColor": "Coklat gelap",
+        "tailVentralColor": "Coklat gelap"
+      },
+      "description": "Tikus dengan rambut pendek dan halus. Hidung kerucut, badan silindris. Warna dorsal coklat kelabu, ventral putih abu-abu pucat, ekor coklat gelap.",
+      "habitat": "Habitat asli padang, sawah, ladang, hutan bambu, dan semak-semak",
+      "healthRisk": "Reservoir sekunder pes, infeksi murine typhus, dan hemorrhagic fevers",
+      "image": "/images/rattus-argentiventer.png"
+    },
+    {
+      "id": 8,
+      "scientificName": "Mus musculus",
+      "localName": "Mencit Rumah",
+      "morphology": {
+        "weight": { "min": 8, "max": 30 },
+        "totalLength": { "min": 55, "max": 176 },
+        "headBody": { "min": 55, "max": 100 },
+        "tail": { "min": 70, "max": 110 },
+        "hindFoot": { "min": 12, "max": 18 },
+        "ears": { "min": 6, "max": 12 },
+        "teats": "3+2"
+      },
+      "characteristics": {
+        "hairType": "Lembut, halus",
+        "noseShape": "Kerucut",
+        "bodyShape": "Silindris",
+        "dorsalColor": "Coklat kelabu",
+        "ventralColor": "Coklat kelabu",
+        "tailDorsalColor": "Coklat gelap",
+        "tailVentralColor": "Coklat gelap"
+      },
+      "description": "Mencit dengan rambut lembut dan halus. Hidung kerucut, badan silindris. Warna dorsal dan ventral coklat kelabu, ekor coklat gelap. Berat badan kurang dari 830 gram dengan panjang total kurang dari 176 mm.",
+      "habitat": "Di dalam rumah, di dalam lemari dan tumpukan barang-barang lainnya",
+      "healthRisk": "Inang vektor murine typhus",
+      "image": "/images/mus-musculus.png"
+    }
+  ]
+}
