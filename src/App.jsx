@@ -1,5 +1,5 @@
 import React from 'react'
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, Navigate } from 'react-router-dom'
 import Header from './components/Header'
 import Home from './pages/Home'
 import Identification from './pages/Identification'
@@ -16,6 +16,7 @@ function App() {
           <Route path="/identifikasi" element={<Identification />} />
           <Route path="/tentang" element={<About />} />
           <Route path="/profile" element={<Profile />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>
     </div>
