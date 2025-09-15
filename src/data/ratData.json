@@ -25,7 +25,7 @@
       "description": "Tikus berukuran sangat besar dengan rambut kasar, panjang, berwarna dan jarang. Hidung berbentuk silindris, badan terpotong. Warna dorsal coklat muda, ventral coklat hitam, ekor hitam di bagian dorsal dan gelap di ventral.",
       "habitat": "Gudang, beranda, sawah, ladang, kebun, tanaman padi, dan daerah sekitar pemukiman",
       "healthRisk": "Positif membawa larva kutu tikus (kutu pinjal) dari Kabupaten Klaten",
-      "image": "./images/bandicota-indica.png"
+      "image": "/TIKUS-PROJECT/images/bandicota-indica.png"
     },
     {
       "id": 2,
@@ -52,7 +52,7 @@
       "description": "Tikus dengan rambut kasar dan agak panjang. Hidung silindris, badan terpotong ke belakang. Warna dorsal coklat gelap dengan ventral putih abu-abu, ekor coklat gelap.",
       "habitat": "Gudang di kota dan pinggir kota, pemukiman, SPAL dan saluran air kotoran, makanan tersedia, pemukiman, kandang, gudang, sawah, rawa, padang, got, kolong hewan",
       "healthRisk": "Reservoir leptospirosis di kota dan desa, sumber murine typhus dan hemorrhagic fever with renal syndrome",
-      "image": "./images/rattus-norvegicus.png"
+      "image": "/TIKUS-PROJECT/images/rattus-norvegicus.png"
     },
     {
       "id": 3,
@@ -79,7 +79,7 @@
       "description": "Tikus dengan rambut halus dan agak pendek. Hidung agak tumpul, badan silindris. Warna dorsal coklat tua, ventral coklat keabu-abuan, ekor coklat gelap.",
       "habitat": "Gudang makanan, pemukiman, dan di langit-langit (atap)",
       "healthRisk": "Reservoir sekunder pes, maag, infeksi murine typhus dan murina typhus",
-      "image": "./images/rattus-rattus.png"
+      "image": "/TIKUS-PROJECT/images/rattus-rattus.png"
     },
     {
       "id": 4,
@@ -106,7 +106,7 @@
       "description": "Tikus dengan rambut halus dan agak kerucut. Hidung silindris, badan silindris. Warna dorsal coklat kelabu, ventral putih kelabu, ekor coklat gelap.",
       "habitat": "Sawah, ladang, sawah dan padang rumput, semak-semak, padang rumput, kebun, hutan, pemukiman, dan di dalam rumah",
       "healthRisk": "Reservoir pes, infeksi murine typhus, hemorrhagic fevers, dan murina typhus, reservoir leptospirosis di kota Semarang",
-      "image": "./images/rattus-exulans.png"
+      "image": "/TIKUS-PROJECT/images/rattus-exulans.png"
     },
     {
       "id": 5,
@@ -133,7 +133,7 @@
       "description": "Tikus dengan rambut kasar. Hidung agak kerucut, badan silindris. Warna dorsal coklat kelabu, ventral putih krem/kekuningan, ekor coklat gelap.",
       "habitat": "Pemukiman, kebun, semak-semak, hutan bambu, semak-semak hutan, semak-semak di Sumatera",
       "healthRisk": "Reservoir sekunder pes, infeksi murine typhus, hemorrhagic fevers, reservoir leptospirosis di Sumatera",
-      "image": "./images/rattus-tiomanicus.png"
+      "image": "/TIKUS-PROJECT/images/rattus-tiomanicus.png"
     },
     {
       "id": 6,
@@ -160,7 +160,7 @@
       "description": "Tikus dengan rambut pendek, lurus, berkilau, spiny dengan duri-duri. Hidung silindris, badan silindris. Warna dorsal kuning kemerahan, ventral putih kelabu, ekor coklat gelap.",
       "habitat": "Semak-semak, rumput-rumputan, hutan bambu, hutan, dan padang pegunungan",
       "healthRisk": "Reservoir sekunder pes, dan inang vektor",
-      "image": "./images/niviventer-fulvescens.png"
+      "image": "/TIKUS-PROJECT/images/niviventer-fulvescens.png"
     },
     {
       "id": 7,
@@ -187,7 +187,7 @@
       "description": "Tikus dengan rambut pendek dan halus. Hidung kerucut, badan silindris. Warna dorsal coklat kelabu, ventral putih abu-abu pucat, ekor coklat gelap.",
       "habitat": "Habitat asli padang, sawah, ladang, hutan bambu, dan semak-semak",
       "healthRisk": "Reservoir sekunder pes, infeksi murine typhus, dan hemorrhagic fevers",
-      "image": "./images/rattus-argentiventer.png"
+      "image": "/TIKUS-PROJECT/images/rattus-argentiventer.png"
     },
     {
       "id": 8,
@@ -214,7 +214,7 @@
       "description": "Mencit dengan rambut lembut dan halus. Hidung kerucut, badan silindris. Warna dorsal dan ventral coklat kelabu, ekor coklat gelap. Berat badan kurang dari 830 gram dengan panjang total kurang dari 176 mm.",
       "habitat": "Di dalam rumah, di dalam lemari dan tumpukan barang-barang lainnya",
       "healthRisk": "Inang vektor murine typhus",
-      "image": "./images/mus-musculus.png"
+      "image": "/TIKUS-PROJECT/images/mus-musculus.png"
     }
   ]
 }
